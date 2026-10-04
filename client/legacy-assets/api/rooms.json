@@ -1,0 +1,1 @@
+{"rooms":[{"id":"training","name":"Training","players":2,"maxPlayers":8,"config":{"asteroids":6,"difficulty":1}},{"id":"storm","name":"Storm Arena","players":5,"maxPlayers":8,"config":{"asteroids":12,"difficulty":2}},{"id":"duel","name":"Duel","players":1,"maxPlayers":2,"config":{"asteroids":3,"difficulty":3}}]}

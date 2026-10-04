@@ -1,0 +1,9 @@
+{
+  "shipSprite": { "type": "image", "url": "/assets/sprites/ship.svg" },
+  "bulletSprite": { "type": "image", "url": "/assets/sprites/bullet.svg" },
+  "asteroidSprite": { "type": "image", "url": "/assets/sprites/asteroid.svg" },
+  "rooms": { "type": "json", "url": "/api/rooms" },
+  "shot": { "type": "audio", "url": "/assets/audio/shot.wav" },
+  "hit": { "type": "audio", "url": "/assets/audio/hit.wav" },
+  "explosion": { "type": "audio", "url": "/assets/audio/explosion.wav" }
+}
